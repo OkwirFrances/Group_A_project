@@ -4,7 +4,7 @@ Student academic tracking system.
 
 ## Description
 
-This is a student Tracting System WebApp created using:
+This is a student Tracking System WebApp created using:
 
  * Django REST Framework as backend
  * React as frontend
@@ -14,7 +14,7 @@ This is a student Tracting System WebApp created using:
 * Download/clone repo.
 * Create and activate a virtual environment.
 * Install Django and other dependencies with 
-    ```pip install -r requirements.txt```
+    ```pip install -r requirements.txt```.
 * Run Django app using ```python manage.py runserver```.
 * Install React dependencies with ```npm install```.
 * Run React app with ```npm start```.
@@ -28,8 +28,10 @@ This is a student Tracting System WebApp created using:
 
 Contributors names and contact info
 
-ex. OkwirFrancis  
-ex. [@francis](https://twitter.com/francis)
-
+* OkwirFrancis  
+ [@francis](https://twitter.com/francis)
+* Alvin
+* Elizabeth
+* Lillian
 
 
