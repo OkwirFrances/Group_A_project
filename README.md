@@ -1,4 +1,4 @@
-# Project Title
+# Student Tracking System
 
 Student academic tracking system.
 
